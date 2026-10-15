@@ -1,1 +1,27 @@
+# Peugeot
 
+Choisissez votre modèle.
+
+<div class="model-grid">
+
+<a class="model-card" href="205/">
+  <div class="model-title">Peugeot 205</div>
+  <div>1983 - 1998</div>
+</a>
+
+<a class="model-card" href="106/">
+  <div class="model-title">Peugeot 106</div>
+  <div>Voir les carburateurs →</div>
+</a>
+
+<a class="model-card" href="309/">
+  <div class="model-title">Peugeot 309</div>
+  <div>Voir les carburateurs →</div>
+</a>
+
+<a class="model-card" href="405/">
+  <div class="model-title">Peugeot 405</div>
+  <div>Voir les carburateurs →</div>
+</a>
+
+</div>
