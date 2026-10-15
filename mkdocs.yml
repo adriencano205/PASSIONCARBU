@@ -1,18 +1,67 @@
-site_name: Guide des Carburateurs Peugeot 205
-site_description: Répertoire des carburateurs, repères, gicleurs et éclatés de 205.
+site_name: PASSIONCARBU❤️
+
+site_description: Documentation technique des carburateurs Solex et Weber montés sur Peugeot, Citroën et Renault.
+
 theme:
-  name: material
+  name: mkdocs
   language: fr
-  palette:
-    primary: red
-    accent: red
-  features:
-    - search.suggest
-    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
+
   - Accueil: index.md
-  - Moteurs X (1983-1987):
-      - Solex 34 PBISA 12 (Repère 409): moteurs-x/solex-34-pbisa-409.md
-  - Moteurs TU (1987-1993):
-      - Solex 32-34 Z2 (Repère 528): moteurs-tu/solex-32-34-z2-528.md
+
+  - Peugeot:
+
+      - Choisir un modèle: peugeot/index.md
+
+      - Peugeot 205:
+
+          - Choisir la génération: peugeot/205/index.md
+
+          - 1983 - 1987 / moteurs XY:
+              - Présentation: peugeot/205/phase-1/index.md
+              - Solex 35 BISA 8: moteurs-tu/solex-35-bisa-8.md
+              - Weber 35 IBSH: moteurs-tu/weber-35-ibsh.md
+
+          - 1987 - 1992 / moteurs TU:
+              - Présentation: peugeot/205/phase-2/index.md
+              - Solex 32 PBISA 16: moteurs-tu/solex-32-pbisa-16-rep-11-12.md
+              - Weber 34 IBSH: moteurs-tu/weber-34-ibsh.md
+              - Weber 34 TLP: moteurs-tu/weber-34-tlp.md
+              - Solex 32/34 Z2 - 409: moteurs-tu/solex-32-34-z2-409.md
+              - Solex 32/34 Z2 - 528: moteurs-tu/solex-32-34-z2-528.md
+
+      - Peugeot 106:
+          - Présentation: peugeot/106/index.md
+
+      - Peugeot 309:
+          - Présentation: peugeot/309/index.md
+
+      - Peugeot 405:
+          - Présentation: peugeot/405/index.md
+          - Solex 34/34 Z1: moteurs-tu/solex-34-34-z1.md
+
+
+  - Citroën:
+
+      - Choisir un modèle: citroen/index.md
+
+      - Citroën AX:
+          - Présentation: citroen/ax/index.md
+
+      - Citroën BX:
+          - Présentation: citroen/bx/index.md
+          - Solex 32/34 Z2 - CIT 348: moteurs-tu/solex-32-34-z1-cit-348.md
+
+
+  - Renault:
+
+      - Présentation: renault/index.md
+
+
+markdown_extensions:
+  - tables
+  - attr_list
