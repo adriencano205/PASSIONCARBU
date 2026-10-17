@@ -6,7 +6,7 @@ Pour identifier correctement le carburateur, choisissez d'abord la période corr
 
 <div class="phase-grid">
 
-<a class="phase-card" href="phase-1/">
+<a class="phase-card" href="phase-1/index.html">
   <div class="phase-title">
     Phase 1
   </div>
@@ -27,7 +27,7 @@ Pour identifier correctement le carburateur, choisissez d'abord la période corr
 </a>
 
 
-<a class="phase-card" href="phase-2/">
+<a class="phase-card" href="phase-2/index.html">
   <div class="phase-title">
     Phase 2
   </div>
