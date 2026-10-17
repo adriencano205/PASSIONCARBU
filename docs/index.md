@@ -19,7 +19,7 @@ Vous trouverez progressivement ici :
 
 <div class="brand-grid">
 
-<a class="brand-card" href="peugeot/">
+<a class="brand-card" href="peugeot.html">
   <div class="brand-name">PEUGEOT</div>
   <div class="brand-description">
     205 · 106 · 309 · 405
@@ -27,7 +27,7 @@ Vous trouverez progressivement ici :
   <div class="brand-button">Voir les modèles →</div>
 </a>
 
-<a class="brand-card" href="citroen/">
+<a class="brand-card" href="citroen.html">
   <div class="brand-name">CITROËN</div>
   <div class="brand-description">
     AX · BX
@@ -35,7 +35,7 @@ Vous trouverez progressivement ici :
   <div class="brand-button">Voir les modèles →</div>
 </a>
 
-<a class="brand-card" href="renault/">
+<a class="brand-card" href="renault.html">
   <div class="brand-name">RENAULT</div>
   <div class="brand-description">
     Fiches à venir
