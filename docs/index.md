@@ -1,4 +1,6 @@
-# Documentation des carburateurs
+# PASSIONCARBU ❤️
+
+**Documentation et identification des carburateurs automobiles.**
 
 Bienvenue sur cette base documentaire consacrée aux carburateurs montés sur les véhicules Peugeot, Citroën et Renault.
 
@@ -13,13 +15,16 @@ Vous trouverez progressivement ici :
 - les méthodes de démontage et de réfection ;
 - les diagnostics de panne.
 
+> 🚧 **Site en cours de construction**  
+> PASSIONCARBU est une base documentaire en développement. Les fiches sont ajoutées, vérifiées et complétées progressivement.
+
 ---
 
 ## Choisissez une marque
 
 <div class="brand-grid">
 
-<a class="brand-card" href="peugeot.html">
+<a class="brand-card" href="peugeot/index.html">
   <div class="brand-name">PEUGEOT</div>
   <div class="brand-description">
     205 · 106 · 309 · 405
@@ -27,15 +32,15 @@ Vous trouverez progressivement ici :
   <div class="brand-button">Voir les modèles →</div>
 </a>
 
-<a class="brand-card" href="citroen.html">
+<a class="brand-card" href="citroen/index.html">
   <div class="brand-name">CITROËN</div>
   <div class="brand-description">
-    AX · BX
+    AX · BX · ZX
   </div>
   <div class="brand-button">Voir les modèles →</div>
 </a>
 
-<a class="brand-card" href="renault.html">
+<a class="brand-card" href="renault/index.html">
   <div class="brand-name">RENAULT</div>
   <div class="brand-description">
     Fiches à venir
@@ -47,5 +52,8 @@ Vous trouverez progressivement ici :
 
 ---
 
-> **Site en cours de construction**  
-> Les fiches techniques et les véhicules sont ajoutés progressivement.
+## À savoir
+
+Les affectations, réglages et calibrages peuvent varier selon le millésime, le marché, la motorisation et les évolutions constructeur. Avant toute intervention, vérifiez toujours le **repère du carburateur**, sa **référence** et le **code moteur** du véhicule.
+
+[En savoir plus sur le projet et les sources](a-propos.html)

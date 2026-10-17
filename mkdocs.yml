@@ -12,20 +12,19 @@ extra_css:
 
 nav:
   - Accueil: index.md
+  - À propos: a-propos.md
 
   - Peugeot:
       - Peugeot 205:
           - 1983 - 1987 / moteurs XY:
               - Solex 35 BISA 8: moteurs-tu/solex-35-bisa-8.md
               - Weber 35 IBSH: moteurs-tu/weber-35-ibsh.md
-
           - 1987 - 1992 / moteurs TU:
               - Solex 32 PBISA 16: moteurs-tu/solex-32-pbisa-16-rep-11-12.md
               - Weber 34 IBSH: moteurs-tu/weber-34-ibsh.md
               - Weber 34 TLP: moteurs-tu/weber-34-tlp.md
               - Solex 32/34 Z2 - Repère 409: moteurs-tu/solex-32-34-z2-409.md
-              - Solex 32/34 Z2 - Repère 528: moteurs-tu/solex-32-34-z2-528.md
-
+              - Solex 32/34 Z2 - Repère 528 (Peugeot): moteurs-tu/solex-32-34-z2-528_Peug.md
       - Peugeot 106: peugeot/106/index.md
       - Peugeot 309: peugeot/309/index.md
       - Peugeot 405:
@@ -35,6 +34,7 @@ nav:
       - Citroën AX: citroen/ax/index.md
       - Citroën BX:
           - Solex 32/34 Z1 - CIT 348: moteurs-tu/solex-32-34-z1-cit-348.md
+          - Solex 32/34 Z2 - Repère 528: moteurs-tu/solex-32-34-z2-528.md
       - Citroën ZX: citroen/zx/index.md
 
   - Renault:

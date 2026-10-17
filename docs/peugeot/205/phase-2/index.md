@@ -45,7 +45,7 @@ TU3S / K2A
 
 **Carburateur :**
 
-[Solex 32/34 Z2 - repère PSA 528](../../../moteurs-tu/solex-32-34-z2-528.md)
+[Solex 32/34 Z2 - repère PSA 528](../../../moteurs-tu/solex-32-34-z2-528_Peug.md)
 
 ---
 

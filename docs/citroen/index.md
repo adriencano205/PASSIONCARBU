@@ -4,17 +4,17 @@ Choisissez votre modèle.
 
 <div class="model-grid">
 
-<a class="model-card" href="ax/">
+<a class="model-card" href="ax/index.html">
   <div class="model-title">Citroën AX</div>
   <div>Voir les carburateurs →</div>
 </a>
 
-<a class="model-card" href="bx/">
+<a class="model-card" href="bx/index.html">
   <div class="model-title">Citroën BX</div>
   <div>Voir les carburateurs →</div>
 </a>
 
-<a class="model-card" href="zx/">
+<a class="model-card" href="zx/index.html">
   <div class="model-title">Citroën ZX</div>
   <div>Voir les carburateurs →</div>
 </a>

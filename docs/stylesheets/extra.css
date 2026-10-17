@@ -142,3 +142,18 @@ ul.pager {
     pointer-events: none;
     cursor: default;
 }
+
+/* Masque tous les liens de navigation Previous / Next du thème MkDocs */
+a[rel="prev"],
+a[rel="next"],
+.navbar-nav a[title^="Previous:"],
+.navbar-nav a[title^="Next:"],
+ul.pager {
+    display: none !important;
+}
+
+/* PASSIONCARBU reste affiché mais n'est pas cliquable */
+.navbar-brand {
+    pointer-events: none !important;
+    cursor: default !important;
+}
