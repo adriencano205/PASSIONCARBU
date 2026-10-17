@@ -132,3 +132,13 @@
         grid-template-columns: 1fr;
     }
 }
+/* Masque Previous / Next */
+ul.pager {
+    display: none !important;
+}
+
+/* Rend PASSIONCARBU non cliquable */
+.navbar-brand {
+    pointer-events: none;
+    cursor: default;
+}
